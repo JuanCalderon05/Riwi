@@ -1,0 +1,6 @@
+palabra = input("Ingrese una palabra: ")
+palabra =  palabra.lower()
+while palabra != "fin":
+    palabra = input("Ingrese otra palabra: ")
+    palabra =  palabra.lower()
+print("fin del programa")
