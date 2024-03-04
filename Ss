@@ -1,0 +1,23 @@
+# Dictionary 1
+superman_dict = {
+    "Nombre": "Superman",
+    "Edad": None,
+    "Podoras": ["Super Strength", "Invulnerability", "Flight", "Super Speed", "X-Ray Vision"]
+}
+
+# Dictionary 2
+borman_dict = {
+    "Nombre": "Borman",
+    "Edad": None,
+    "Podoras": ["Telepathy", "Telekinesis", "Invisibility"]
+}
+
+# Dictionary 3
+mujer_moro_dict = {
+    "Nombre": "Mujer Moro",
+    "Edad": None,
+    "Podoras": ["Super Strength", "Invulnerability", "Magic"]
+}
+
+# List of dictionaries
+heroes_list = [superman_dict, borman_dict, mujer_moro_dict]
